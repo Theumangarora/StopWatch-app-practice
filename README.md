@@ -1,1 +1,1 @@
-# StopWatch-app-practice
+# Stopwatch-practice
